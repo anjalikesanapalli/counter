@@ -1,0 +1,11 @@
+#counter {
+  border: 2px solid black;
+  padding: 9px;
+  margin-right: 4px;
+}
+h1 {
+  text-align: center;
+}
+body {
+  justify-content: center;
+}
